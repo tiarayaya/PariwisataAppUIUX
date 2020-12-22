@@ -1,8 +1,15 @@
 <component name="libraryTable">
   <library name="Gradle: com.jakewharton:butterknife-runtime:10.0.0@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/butterknife-runtime-10.0.0.aar/ad32809b9d6fb019bdfafabf86d39e24/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/butterknife-runtime-10.0.0.aar/ad32809b9d6fb019bdfafabf86d39e24/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/butterknife-runtime-10.0.0.aar/905836958810491810098e416cdc1d93/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/butterknife-runtime-10.0.0.aar/905836958810491810098e416cdc1d93/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/butterknife-runtime-10.0.0.aar/905836958810491810098e416cdc1d93/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/butterknife-runtime-10.0.0.aar/67a03e5b9d7ab5b435f5dca3d5bbd86b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/butterknife-runtime-10.0.0.aar/67a03e5b9d7ab5b435f5dca3d5bbd86b/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/butterknife-runtime-10.0.0.aar/67a03e5b9d7ab5b435f5dca3d5bbd86b/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/butterknife-runtime-10.0.0.aar/7760ae0dcf778b95b79a3ca54d809a3d/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/butterknife-runtime-10.0.0.aar/7760ae0dcf778b95b79a3ca54d809a3d/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/butterknife-runtime-10.0.0.aar/7760ae0dcf778b95b79a3ca54d809a3d/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

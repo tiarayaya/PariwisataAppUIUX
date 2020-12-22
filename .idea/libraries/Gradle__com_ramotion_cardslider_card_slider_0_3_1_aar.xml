@@ -1,8 +1,15 @@
 <component name="libraryTable">
   <library name="Gradle: com.ramotion.cardslider:card-slider:0.3.1@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/card-slider-0.3.1.aar/e7baeb6d855dd6193077362973007bc0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/card-slider-0.3.1.aar/e7baeb6d855dd6193077362973007bc0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/card-slider-0.3.1.aar/e99cce7d5f47f95378456bdea0636786/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/card-slider-0.3.1.aar/e99cce7d5f47f95378456bdea0636786/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/card-slider-0.3.1.aar/e99cce7d5f47f95378456bdea0636786/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/card-slider-0.3.1.aar/bc35f623daa159e6b90707c425352a2a/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/card-slider-0.3.1.aar/bc35f623daa159e6b90707c425352a2a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/card-slider-0.3.1.aar/bc35f623daa159e6b90707c425352a2a/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/card-slider-0.3.1.aar/7ead5100b015f7e6e6b8883099fcbfba/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/card-slider-0.3.1.aar/7ead5100b015f7e6e6b8883099fcbfba/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/card-slider-0.3.1.aar/7ead5100b015f7e6e6b8883099fcbfba/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

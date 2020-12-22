@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">Pariwisata</string>
     <string name="about">About</string>
-    <string name="text_item_wisata_address">Jawa Timur</string>
-    <string name="text_name">HENDRIYAWAN</string>
-    <string name="text_my_email">hendrijs44@gmail.com</string>
-    <string name="text_my_phone">+62 895397938533</string>
-    <string name="text_my_github_account">https://github.com/Hendriyawan</string>
+    <string name="text_item_wisata_address">Sumatera Selatan</string>
+    <string name="text_name">MZFTAT</string>
+    <string name="text_my_email">mzftat5@gmail.com</string>
+    <string name="text_my_phone">+6282186972791</string>
+    <string name="text_my_github_account">https://github.com/MZFTAT</string>
 </resources>

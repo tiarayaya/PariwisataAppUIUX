@@ -38,6 +38,7 @@ import butterknife.OnClick;
 
 public class MainActivity extends AppCompatActivity {
     private static String TAG = MainActivity.class.getName();
+
     @BindView(R.id.toolbar)
     Toolbar toolbar;
     @BindView(R.id.bottom_sheet_main)
@@ -48,7 +49,6 @@ public class MainActivity extends AppCompatActivity {
     TextView textViewDeskripsiWisata;
     @BindView(R.id.tv_profile_name)
     TextView textViewProfileName;
-
     @BindView(R.id.image_foto_profile)
     ImageView imageViewFotoProfile;
 
@@ -78,9 +78,8 @@ public class MainActivity extends AppCompatActivity {
         initViews();
     }
 
-    /*
-    OnClick close Bottom sheet
-     */
+    //OnClick close Bottom sheet
+
     @OnClick(R.id.image_view_close_bottom_sheet)
     public void onCloseBottomSheet() {
         bottomSheetBehavior.setState(BottomSheetBehavior.STATE_HIDDEN);

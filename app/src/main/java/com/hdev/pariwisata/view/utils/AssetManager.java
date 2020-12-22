@@ -9,18 +9,10 @@ import java.io.InputStream;
 import java.lang.reflect.Type;
 import java.nio.charset.StandardCharsets;
 
-/**
- * 12 Agustus 2019
- * @author gdev (Hendriyawan)
- */
 public class AssetManager {
 
-    /**
-     *
-     * @param context, context
-     * @return, return json content
-     */
     public static String loadJson(Context context) {
+
         String jsonResult = "";
         try {
             InputStream stream = context.getAssets().open("pariwisata.json");
@@ -35,13 +27,6 @@ public class AssetManager {
         return jsonResult;
     }
 
-
-    /**
-     *
-     * @param context, context
-     * @param filename, file name of jpg in asset folder
-     * @return, return result drawable
-     */
     public static Drawable drawableFromAsset(Context context, String filename) {
         Drawable drawable = null;
         try {
@@ -56,12 +41,6 @@ public class AssetManager {
         return drawable;
     }
 
-    /**
-     *
-     * @param context, context
-     * @param fontName, font file name
-     * @return
-     */
     public static Typeface loadTypeface(Context context, String fontName){
         return Typeface.createFromAsset(context.getAssets(), "fonts/" + fontName);
     }

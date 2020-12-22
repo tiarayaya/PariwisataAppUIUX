@@ -19,11 +19,6 @@ import androidx.recyclerview.widget.RecyclerView;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 
-/**
- * 12 agustus 2019
- *
- * @author gdev (Hendriyawan)
- */
 public class WisataAdapter extends RecyclerView.Adapter<WisataAdapter.WisataHolder> {
     private Context context;
     private List<Wisata> wisataList;
